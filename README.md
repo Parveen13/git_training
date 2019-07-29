@@ -1,2 +1,6 @@
 # git_training
-Created for GIT training
+
+## Branching Model 
+
+1. Master Branch
+2. Dev Branch
